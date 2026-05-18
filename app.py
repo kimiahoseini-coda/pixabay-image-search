@@ -1,8 +1,3 @@
-"""
-Date:
- Mon May 18 22:12:29 2026    
-
-"""
 
 import streamlit as st
 import requests
